@@ -152,14 +152,21 @@ npm start
 ```
 ---
 
-## 🎓 What This Project Demonstrates to Recruiters
+### 💼 Why Choose Me as a Developer
 
-✔ Strong understanding of **full‑stack architecture**  
-✔ Ability to deploy **real‑world applications**  
-✔ Clean, maintainable code structure  
-✔ Knowledge of **authentication & security**  
-✔ Experience with **cloud databases & deployment**  
-✔ Practical MERN stack expertise  
+Trend-Hive is not just a project — it is proof that I can build, deploy, and manage a complete MERN application independently.
+
+It highlights my ability to:
+
+Think like a product developer
+
+Write maintainable, scalable code
+
+Deliver production-level features
+
+Adapt quickly to modern tools and workflows
+
+I bring ownership, problem-solving, and consistency — qualities that matter in real engineering teams.
 
 ---
 
