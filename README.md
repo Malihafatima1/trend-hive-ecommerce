@@ -125,12 +125,12 @@ JWT_SECRET=your_jwt_secret
 
 **frontend/.env**
 ```
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://localhost:5173
 ```
 
 **admin/.env**
 ```
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://localhost:5174
 ```
 
 ---
@@ -140,15 +140,15 @@ VITE_API_URL=http://localhost:5000
 ```bash
 # Backend
 cd backend
-npm start
+npm run server
 
 # Frontend
 cd ../frontend
-npm start
+npm run dev
 
 # Admin
 cd ../admin
-npm start
+npm run dev
 ```
 ---
 
