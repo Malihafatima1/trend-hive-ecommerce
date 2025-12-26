@@ -11,7 +11,6 @@ This project demonstrates real‑world **full‑stack development skills**, clea
 - ⚙️ **Backend API** – Secure REST API (Serverless on Vercel)  
 - 🧑‍💼 **Admin Panel** – Product & content management dashboard  
 
-*(Live links can be added here)*
 
 - 🛒 **Frontend (User Website)**  
   👉 https://trend-hive-frontend-two.vercel.app/
